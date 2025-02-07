@@ -1,0 +1,9 @@
+[logger]
+level = "error"
+
+[client]
+showErrorDetails = false
+
+[runner]
+# Disable the warning about missing script context
+magicEnabled = false
